@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 -->
 
 <img src="./assets/kodama.jpg" width="1200" height="200">
-<h1 align="right">
-Abigail Doyle
+<h1 align="left">
 <img src="./assets/giphyj.gif" width="100" height="100">
+Abigail Doyle
 </h1>
 
-```diff
+<!-- ```diff
 + "yet even amidst the hatred and carnage, life is still worth living. 
 + it is possible for wonderful encounters and beautiful things to exist."
 +                                                   - hayao miyazaki 宮崎 駿
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=13&color=1C7916&multiline=true&width=800&height=100&lines=+%22yet+even+amidst+the+hatred+and+carnage%2C+life+is+still+worth+living.+;it+is+possible+for+wonderful+encounters+and+beautiful+things+to+exist.%22;-+hayao+miyazaki+%E5%AE%AE%E5%B4%8E+%E9%A7%BF)](https://git.io/typing-svg)
+``` -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=13&color=1C7916&center=true&multiline=true&width=1200&height=100&lines=+%22yet+even+amidst+the+hatred+and+carnage%2C+life+is+still+worth+living.+;it+is+possible+for+wonderful+encounters+and+beautiful+things+to+exist.%22;-+hayao+miyazaki+%E5%AE%AE%E5%B4%8E+%E9%A7%BF)](https://git.io/typing-svg)
