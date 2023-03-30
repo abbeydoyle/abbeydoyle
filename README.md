@@ -22,6 +22,6 @@ Abigail Doyle
 ```diff
 + "yet even amidst the hatred and carnage, life is still worth living. 
 + it is possible for wonderful encounters and beautiful things to exist."
-+                                     - hayao miyazaki 宮崎 駿
++                                                 - hayao miyazaki 宮崎 駿
 ```
 
