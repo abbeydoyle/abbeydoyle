@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 -->
 
 <img src="./assets/kodama.jpg" width="1200" height="200">
-<h1><img src="./assets/giphyj.gif" width="100" height="100">Abigail Doyle</h1>
+<h1 align="right">
+Abigail Doyle
+<img src="./assets/giphyj.gif" width="100" height="100">
+</h1>
 
 ```diff
 + "yet even amidst the hatred and carnage, life is still worth living. 
 + it is possible for wonderful encounters and beautiful things to exist."
-+ -hayao miyazaki 宮崎 駿
++                                     - hayao miyazaki 宮崎 駿
 ```
+
