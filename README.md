@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <img src="./assets/kodama-studio-ghibli.gif" width="1200" height="200">
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
