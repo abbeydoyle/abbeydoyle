@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **abbeydoyle/abbeydoyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,10 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="./assets/kodama-studio-ghibli.gif" width="1200" height="200">
+
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
++ "yet even amidst the hatred and carnage, life is still worth living. it is possible for wonderful encounters and beautiful things to exist." -hayao miyazaki 宮崎 駿
 ```
