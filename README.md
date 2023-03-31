@@ -72,3 +72,12 @@ Abigail Doyle
       <code><img width="3.5%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg"></code>
 </p>
 </details>
+
+<br>
+<details open>
+<summary><h2>Donations</h2></summary>
+
+Want to donate to my journey as a full stack developer? Don't! Instead donate to the Trevor Project [here](https://give.thetrevorproject.org/give/330001/#!/donation/checkout?c_src=pride2021&c_src2=headerDonate) to support LGBTQ+ youth. 
+
+
+</details>
