@@ -26,49 +26,49 @@ Abigail Doyle
 ``` -->
 <div align="right">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=8000&color=1C7916&center=true&multiline=true&width=1200&height=75&lines=+%22yet+even+amidst+the+hatred+and+carnage%2C+life+is+still+worth+living.+it+is+possible+for+wonderful+encounters+and+beautiful+things+to+exist.%22;-+hayao+miyazaki+%E5%AE%AE%E5%B2.3%8E+%E9%A7%BF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=8000&color=1C7916&center=true&multiline=true&width=1200&height=75&lines=+%22yet+even+amidst+the+hatred+and+carnage%2C+life+is+still+worth+living.+it+is+possible+for+wonderful+encounters+and+beautiful+things+to+exist.%22;-+hayao+miyazaki+%E5%AE%AE%E5%B2%8E+%E9%A7%BF)](https://git.io/typing-svg)
 
 </div>
 
 <details open>
 <summary><h2>Skills and Tools</h2></summary>
 <p>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/agilestacks/agilestacks-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg"></code>
-      <code><img width="2.3%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/agilestacks/agilestacks-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg"></code>
+      <code><img width="2%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg"></code>
 </p>
 </details>
