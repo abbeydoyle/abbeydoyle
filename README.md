@@ -72,6 +72,15 @@ Abigail Doyle
       <code><img width="3.5%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg"></code>
 </p>
 </details>
+<br>
+
+<details open>
+<summary><h2>Stats</h2></summary>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abbeydoyle&theme=gotham&show_icons=true)
+
+</details>
+
 
 <br>
 <details open>
